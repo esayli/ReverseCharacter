@@ -8,7 +8,7 @@ package datastructures;
 
 /**
  *
- * @author kemal
+ * @author eyyup
  * @param <T>
  */
 public interface StackADT<T>

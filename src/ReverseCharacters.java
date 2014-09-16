@@ -7,7 +7,7 @@ import datastructures.ArrayStack;
 import java.util.Scanner;
 /**
  *
- * @author kemal
+ * @author eyyup
  */
 public class ReverseCharacters    
 {

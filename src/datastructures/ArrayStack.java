@@ -14,7 +14,7 @@ package datastructures;
 
 /**
  *
- * @author kemal
+ * @author eyyup
  */
 import datastructures.exceptions.*;
 import java.util.Arrays;
